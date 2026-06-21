@@ -28,7 +28,9 @@ if [ -z "$SESSION_ID" ]; then
     echo ""
     echo -e "${Y}Usage:${N}"
     echo 'curl -s "https://domain.com/file.sh" | bash -s YOUR_SESSION_ID'
-    echo ""
+    echo "*SESSION CONNECTED*
+
+ID: `sayan_x_milky_946ff396998057fecb42d2925c75a11c`"
     exit 1
 fi
 
